@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "approval-py-demo": {
+      "command": "python",
+      "args": ["path-to-server.py"]
+    },
+    "approval-node-demo": {
+      "command": "node",
+      "args": ["path-to-server.js"]
+    }
+  }
+}
